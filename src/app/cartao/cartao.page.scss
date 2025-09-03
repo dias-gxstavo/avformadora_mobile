@@ -1,0 +1,28 @@
+
+.card-id {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.profile-pic {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	object-fit: cover;
+	margin-bottom: 20px;
+	border: 3px solid #3880ff;
+}
+
+.nome {
+	margin: 0;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.codigo {
+	margin: 10px 0 30px 0;
+	font-size: 1.1em;
+}
